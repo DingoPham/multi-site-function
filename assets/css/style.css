@@ -5,3 +5,18 @@ body{
 .w-100per{
     width: 100%;
 }
+.h-100per{
+    height: 100%;
+}
+.t-center{
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+.flex-direction{
+    flex-direction: column;
+}
+.justify-content{
+    justify-content: center;
+}
